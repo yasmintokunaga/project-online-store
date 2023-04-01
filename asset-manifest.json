@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-online-store/static/css/main.e3390caa.css",
+    "main.js": "/project-online-store/static/js/main.efd8fff1.js",
+    "index.html": "/project-online-store/index.html",
+    "main.e3390caa.css.map": "/project-online-store/static/css/main.e3390caa.css.map",
+    "main.efd8fff1.js.map": "/project-online-store/static/js/main.efd8fff1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3390caa.css",
+    "static/js/main.efd8fff1.js"
+  ]
+}
