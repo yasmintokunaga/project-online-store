@@ -31,16 +31,16 @@ Uma plataforma de compras online, utilizando a API do Mercado Livre.
 
 * Busca
 
-![resultado do meu projeto](./src/img/trybetunes-login.png)
+![resultado do meu projeto](./src/img/online-store-search.png)
 
 * Detalhe do produto
 
-![resultado do meu projeto](./src/img/trybetunes-search.png)
+![resultado do meu projeto](./src/img/online-store-product-details.png)
 
 * Carrinho de compras
 
-![resultado do meu projeto](./src/img/trybetunes-musics.png)
+![resultado do meu projeto](./src/img/online-store-shopping-cart.png)
 
 * Checkout
 
-![resultado do meu projeto](./src/img/trybetunes-musics.png)
+![resultado do meu projeto](./src/img/online-store-checkout.png)
