@@ -11,7 +11,7 @@ function App() {
   return (
     <main>
       <Switch>
-        <Route exact path="/" component={ SearchField } />
+        <Route exact path="/project-online-store" component={ SearchField } />
         <Route path="/shoppingcart" component={ ShoppingCart } />
         <Route path="/products/:id" component={ ProductDetails } />
         <Route path="/formitem" component={ FormItem } />

@@ -45,7 +45,7 @@ class Checkout extends React.Component {
     ) {
       localStorage.clear();
       const { history } = this.props;
-      history.push('/');
+      history.push('/project-online-store');
     } else {
       this.setState({ validadeInput: true });
     }
